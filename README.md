@@ -1,5 +1,7 @@
 # CS-MEDIUM-03 实验：Linux命令行实现
 
+* linux环境配置：我是通过哔站上的黑马程序员的linux系统教学一步步配置，包括安装vmware，CentOS，finalshell等。
+
 ## 随之而来的挑战
 [运行过程与运行结果](myls.png)
 
